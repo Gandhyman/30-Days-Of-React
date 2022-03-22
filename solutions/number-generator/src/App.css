@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@100&display=swap');
+
+body {
+    font-family: 'Roboto Serif', serif;
+}
+
+.center {
+    text-align: center;
+  }
+
+.grid-container {
+    padding-left: 20%;
+    display: grid;
+    grid-template-rows:  100px 100px 100px 100px;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px;
+}
+
+.odd{
+      background-color: rgba(207, 207, 29, 0.74);
+  }
+
+.even{
+    background-color: rgba(0, 128, 0, 0.767);
+}
+
+.prime{
+    background-color: rgba(255, 0, 0, 0.623);
+}
+
+#cell {
+    border-style: solid;
+    border-color: white;
+    font-size: 60px;
+    padding-top: 15px;
+  }
+
+  
