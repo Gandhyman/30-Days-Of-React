@@ -1,9 +1,15 @@
 Explanation:
 
-Generates a table of 8 columns by 4 rows with numbers from zero to 31, its background color changes being green for even, yellow for odd and red for prime
+Number Generator generates a table with 8 columns by 4 rows with numbers from zero to 31, its background color changes to green for even, yellow for odd and red for prime.
+
+Hexadecimal Colors also generates a table of the same size but this time the text is a base 16 number and the background color corresponds to that value.
+
+
 Explicación:
 
-Genera una tabla de 8 columnas por 4 renglones con numeros del cero al 31, su color de fondo cambia siendo verde para par, amarillo para impar y rojo para primo
+Number Generator genera una tabla de 8 columnas por 4 renglones con numeros del cero al 31, su color de fondo cambia siendo verde para par, amarillo para impar y rojo para primo.
+
+Hexadecimal Colors genera tambienn una tabla de el mismo tamaño pero esta vez el texto es un numero en base 16 y el color de fondo corresponde a ese valor.
 
 # Getting Started with Create React App
 
