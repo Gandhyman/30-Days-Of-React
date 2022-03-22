@@ -1,0 +1,16 @@
+.grid-container {
+    padding-left: 20%;
+    display: grid;
+    grid-template-rows:  100px 100px 100px 100px;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px;
+}
+
+#cell2 {
+    border-style: solid;
+    border-color: white;
+    color: white;
+    font-size: 16px;
+    padding-top: 40px;
+  }
+
+  
