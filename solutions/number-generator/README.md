@@ -1,3 +1,10 @@
+Explanation:
+
+Generates a table of 8 columns by 4 rows with numbers from zero to 31, its background color changes being green for even, yellow for odd and red for prime
+Explicación:
+
+Genera una tabla de 8 columnas por 4 renglones con numeros del cero al 31, su color de fondo cambia siendo verde para par, amarillo para impar y rojo para primo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
